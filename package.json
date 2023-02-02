@@ -9,6 +9,7 @@
     "heroku-postbuild": "npm run install-client && npm run install-server"
   },
   "engines": {
-    "node": "18.x"
+    "node": "16.10.0",
+    "npm": ">=6.0.0"
   }
 }
