@@ -1,0 +1,35 @@
+.auth {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.auth form {
+    width: 100%;
+    max-width: 25rem;
+    padding: 1rem;
+}
+
+.error {
+    font-size: 0.9rem;
+    color: red;
+}
+
+
+.budgetentry_form{
+    margin-top: 3rem;
+}
+
+.budgetentry_form .form-label{
+    width: 100%;
+    max-width: 7rem;
+}
+
+.budgetentry_form .form-group{
+    margin-bottom: 2rem;
+}
+
+.director_table{
+    vertical-align: middle;
+}
